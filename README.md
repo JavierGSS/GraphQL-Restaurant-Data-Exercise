@@ -6,7 +6,7 @@
   <!-- <a href="https://expressgraphql01.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Expressgraphql01</h1>
+<h1 align="center">Express Graphql Restaurant Data</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/JavierGSS/expressgraphql01?color=56BEB8">
@@ -34,7 +34,6 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -46,23 +45,17 @@
 
 ## :dart: About ##
 
-Describe your project
-
-## :sparkles: Features ##
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+Simple app using Express-GraphQL and implementing GraphiQl with full CRUD functionalities.
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- Node.js (https://nodejs.org/en/)
+- GraphQL (https://graphql.org)
+- Express (https://expressjs.com)
+- Git (https://git-scm.com)
+- VSCode (https://code.visualstudio.com)
 
 ## :white_check_mark: Requirements ##
 
